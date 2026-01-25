@@ -1,5 +1,5 @@
-wwwroot\index.html
 wwwroot\contact.html
-wwwroot\about.html
-wwwroot\js\script.js
 wwwroot\css\styles.css
+wwwroot\index.html
+wwwroot\js\script.js
+wwwroot\about.html
