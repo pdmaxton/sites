@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sites")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f41063291ccf563a8ff2dd43a5fc36b2206c668")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a27ab2906374817f3d7a4c0e38632610fa852e9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sites")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sites")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
